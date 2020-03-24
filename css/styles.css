@@ -1,0 +1,103 @@
+body {
+  font-family: sans-serif;
+  background-color: orange;
+  margin: 0;
+}
+
+table {
+  border-spacing: 100px 10px;
+}
+
+/*CLASSES*/
+.top-logo {}
+
+.top-bar {
+  margin: 5%;
+  text-align: right;
+}
+
+.top-links {
+  margin: auto 3%;
+  text-decoration: none;
+  color: black;
+}
+
+.top-container {
+  width: 100%;
+  position: relative;
+  padding-top: 5%;
+}
+
+.text-content {
+  width: 50%;
+  margin: 3%;
+}
+
+.middle-container {
+  background-color: hsl(240, 75%, 98%);
+}
+
+.bottom-container {
+  background-color: hsl(238, 22%, 44%);
+  color: white;
+  padding-top: 5%;
+}
+
+.contact-container {
+  background-color: hsl(243, 87%, 12%);
+  color: white;
+}
+
+.bottom-text {
+  width: 44%;
+  margin: 3%;
+  display:inline-block;
+}
+
+.bottom-form {
+  width: 44%;
+  display: inline-block;
+}
+.bg-curve {
+  margin: 10% auto auto;
+  display: block;
+}
+
+.middle-text {
+  background-clip: border-box;
+  width: 50%;
+  padding: 3%
+}
+
+.illustration {
+  width: 50%;
+  float: right;
+  margin: 3%;
+}
+
+.bg-curve {
+  width: 100%;
+  height: 100%;
+}
+
+.buttons {
+  background-color: hsl(224, 93%, 58%);
+  color: white;
+  border: none;
+  border-radius: 5%;
+  padding: 2% 7%;
+}
+
+.text-box {
+  border-radius: 5%;
+    width: 70%;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
